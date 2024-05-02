@@ -1,0 +1,14 @@
+python llava/​eval/​model_vqa.py --model-path llava-v1.5 --question-file classification_eval/image_data.jsonl --image-folder classification_eval/selected_images --answers-file classification_eval/LLaVA_classificaiton_eval_answer.jsonl
+
+OPENAI_API_KEY="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" python llava/eval/eval_gpt_review_visual.py \
+    --question playground/data/eval/custom_plant/question_eval.jsonl \
+    --answer-list \
+    playground/data/eval/custom_plant/answer_eval.jsonl \
+    playground/data/eval/custom_plant/answers/answer_llava_eval.jsonl \
+    --rule llava/eval/table/rule.json \
+    --output playground/data/eval/custom_plant/results/review.json
+    
+    
+    
+    
+python -m llava.serve.cli --model-path llava_1.5 --image-file "https://i.ibb.co/ccwHDBM/2aa3ea94-3daa-4d9d-8b82-46a0711fa1de.jpg"

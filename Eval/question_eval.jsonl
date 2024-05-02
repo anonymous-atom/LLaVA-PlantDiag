@@ -1,0 +1,254 @@
+{"image": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot_141.JPG", "text": "What can you tell me about the condition of the corn leaf in the image?", "category": "conv", "question_id": 0}
+{"image": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot_141.JPG", "text": "How would you describe the appearance of the gray spots on the leaf?", "category": "conv", "question_id": 1}
+{"image": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot_141.JPG", "text": "What impact does gray leaf spot have on corn plants?", "category": "conv", "question_id": 2}
+{"image": "Corn_(maize)___healthy_276.JPG", "text": "How would you describe the overall appearance of the leaves in the image?", "category": "conv", "question_id": 3}
+{"image": "Corn_(maize)___healthy_276.JPG", "text": "Can you tell me anything about the size or shape of the leaves?", "category": "conv", "question_id": 4}
+{"image": "Corn_(maize)___healthy_276.JPG", "text": "What can you infer about the overall health of the plant based on the leaves?", "category": "conv", "question_id": 5}
+{"image": "Tomato___Septoria_leaf_spot_288.JPG", "text": "What can you tell me about the appearance of the leaf in the image?", "category": "conv", "question_id": 6}
+{"image": "Tomato___Septoria_leaf_spot_288.JPG", "text": "How does this disease progress over time?", "category": "conv", "question_id": 7}
+{"image": "Tomato___Septoria_leaf_spot_288.JPG", "text": "Are there any visible signs of the disease spreading to other parts of the plant?", "category": "conv", "question_id": 8}
+{"image": "Strawberry___Leaf_scorch_322.JPG", "text": "What can you tell me about the appearance of the leaf in the image?", "category": "conv", "question_id": 9}
+{"image": "Strawberry___Leaf_scorch_322.JPG", "text": "How does leaf scorch disease affect strawberry plants?", "category": "conv", "question_id": 10}
+{"image": "Strawberry___Leaf_scorch_322.JPG", "text": "Are there any other visible symptoms of leaf scorch disease on the leaf?", "category": "conv", "question_id": 11}
+{"image": "Strawberry___healthy_90.JPG", "text": "How would you describe the overall appearance of the leaf in the image?", "category": "conv", "question_id": 12}
+{"image": "Strawberry___healthy_90.JPG", "text": "Can you tell me anything about the health of the plant based on this leaf?", "category": "conv", "question_id": 13}
+{"image": "Strawberry___healthy_90.JPG", "text": "What can you infer about the potential yield of the plant based on this leaf?", "category": "conv", "question_id": 14}
+{"image": "Strawberry___healthy_303.JPG", "text": "How would you describe the overall appearance of the leaf in the image?", "category": "conv", "question_id": 15}
+{"image": "Apple___healthy_754.JPG", "text": "How would you describe the overall appearance of the leaf in the image?", "category": "conv", "question_id": 16}
+{"image": "Apple___healthy_754.JPG", "text": "Are there any specific features on the leaf that indicate its good health?", "category": "conv", "question_id": 17}
+{"image": "Apple___healthy_754.JPG", "text": "What can we infer about the overall health of the Apple tree based on this leaf?", "category": "conv", "question_id": 18}
+{"image": "Pepper,_bell___healthy_859.JPG", "text": "Can you describe the appearance of the pepper bell plant in the image?", "category": "conv", "question_id": 19}
+{"image": "Pepper,_bell___healthy_859.JPG", "text": "What can you infer about the growth conditions of the pepper bell plant?", "category": "conv", "question_id": 20}
+{"image": "Pepper,_bell___healthy_859.JPG", "text": "Are there any specific features that indicate the excellent health of the pepper bell plant?", "category": "conv", "question_id": 21}
+{"image": "Grape___healthy_334.JPG", "text": "How would you describe the overall appearance of the leaf in the image?", "category": "conv", "question_id": 22}
+{"image": "Grape___healthy_334.JPG", "text": "Are there any visible abnormalities or blemishes on the leaf?", "category": "conv", "question_id": 23}
+{"image": "Grape___healthy_334.JPG", "text": "What can you infer about the overall health of the grape plant based on this leaf?", "category": "conv", "question_id": 24}
+{"image": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot_226.JPG", "text": "What can you tell me about the condition of the leaf in the image?", "category": "conv", "question_id": 25}
+{"image": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot_226.JPG", "text": "How does this disease affect the corn plant?", "category": "conv", "question_id": 26}
+{"image": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot_226.JPG", "text": "What actions should be taken to address this disease?", "category": "conv", "question_id": 27}
+{"image": "Peach___Bacterial_spot_1198.JPG", "text": "What can you tell me about the appearance of the leaf in the image?", "category": "conv", "question_id": 28}
+{"image": "Peach___Bacterial_spot_1198.JPG", "text": "How do these lesions affect the health of the peach tree?", "category": "conv", "question_id": 29}
+{"image": "Peach___Bacterial_spot_1198.JPG", "text": "Are there any other visible symptoms on the leaf apart from the lesions?", "category": "conv", "question_id": 30}
+{"image": "Cherry_(including_sour)___Powdery_mildew_908.JPG", "text": "What can you tell me about the appearance of the leaf in the image?", "category": "conv", "question_id": 31}
+{"image": "Cherry_(including_sour)___Powdery_mildew_908.JPG", "text": "Is this leaf from a specific type of plant?", "category": "conv", "question_id": 32}
+{"image": "Cherry_(including_sour)___Powdery_mildew_908.JPG", "text": "How does powdery mildew impact the Cherry plant?", "category": "conv", "question_id": 33}
+{"image": "Grape___healthy_319.JPG", "text": "How would you describe the overall appearance of the grape plant in the image?", "category": "conv", "question_id": 34}
+{"image": "Grape___healthy_319.JPG", "text": "What can you infer about the condition of the grape plant based on the image?", "category": "conv", "question_id": 35}
+{"image": "Grape___healthy_319.JPG", "text": "Are there any specific features of the grape plant that stand out in the image?", "category": "conv", "question_id": 36}
+{"image": "Grape___healthy_55.JPG", "text": "How would you describe the overall appearance of the grapevine leaves in the image?", "category": "conv", "question_id": 37}
+{"image": "Corn_(maize)___Common_rust__951.JPG", "text": "How would you describe the overall appearance of the maize plant in the image?", "category": "conv", "question_id": 38}
+{"image": "Corn_(maize)___Common_rust__951.JPG", "text": "What can you tell me about the lesions on the maize plant?", "category": "conv", "question_id": 39}
+{"image": "Corn_(maize)___Common_rust__951.JPG", "text": "How does the presence of the common rust disease affect the maize plant?", "category": "conv", "question_id": 40}
+{"image": "Apple___Apple_scab_163.JPG", "text": "What can you tell me about the appearance of the leaf in the image?", "category": "conv", "question_id": 41}
+{"image": "Apple___Apple_scab_163.JPG", "text": "How does Apple Scab disease affect apple plants?", "category": "conv", "question_id": 42}
+{"image": "Apple___Apple_scab_163.JPG", "text": "Are there any other visible symptoms of Apple Scab on the leaf?", "category": "conv", "question_id": 43}
+{"image": "Corn_(maize)___Common_rust__367.JPG", "text": "What can you tell me about the appearance of the leaf in the image?", "category": "conv", "question_id": 44}
+{"image": "Corn_(maize)___Common_rust__367.JPG", "text": "How does the common rust disease impact the corn plants?", "category": "conv", "question_id": 45}
+{"image": "Corn_(maize)___Common_rust__367.JPG", "text": "Are there any other visible symptoms of the common rust disease on the leaf?", "category": "conv", "question_id": 46}
+{"image": "Grape___Esca_(Black_Measles)_1197.JPG", "text": "What can you tell me about the condition of the grape leaf in the image?", "category": "conv", "question_id": 47}
+{"image": "Grape___Esca_(Black_Measles)_1197.JPG", "text": "What could be causing the dark patches and lesions on the grape leaf?", "category": "conv", "question_id": 48}
+{"image": "Grape___Esca_(Black_Measles)_1197.JPG", "text": "How does Esca, or Black Measles, impact grape plants?", "category": "conv", "question_id": 49}
+{"image": "Tomato___Target_Spot_1208.JPG", "text": "What can you tell me about the disease affecting the tomato leaf in the image?", "category": "conv", "question_id": 50}
+{"image": "Apple___Apple_scab_575.JPG", "text": "What can you tell me about the appearance of the leaf in the image?", "category": "conv", "question_id": 51}
+{"image": "Apple___Apple_scab_575.JPG", "text": "How does Apple Scab disease affect the overall health of the Apple tree?", "category": "conv", "question_id": 52}
+{"image": "Apple___Apple_scab_575.JPG", "text": "Are there any specific measures mentioned to control and prevent the spread of Apple Scab?", "category": "conv", "question_id": 53}
+{"image": "Cherry_(including_sour)___Powdery_mildew_377.JPG", "text": "What can you tell me about the appearance of the leaf in the image?", "category": "conv", "question_id": 54}
+{"image": "Cherry_(including_sour)___Powdery_mildew_377.JPG", "text": "What could be the cause of the powdery white patches on the leaf?", "category": "conv", "question_id": 55}
+{"image": "Cherry_(including_sour)___Powdery_mildew_377.JPG", "text": "How does powdery mildew affect cherry trees?", "category": "conv", "question_id": 56}
+{"image": "Tomato___Septoria_leaf_spot_1472.JPG", "text": "What can you tell me about the symptoms on the leaf in the image?", "category": "conv", "question_id": 57}
+{"image": "Tomato___Septoria_leaf_spot_1472.JPG", "text": "How does Septoria leaf spot disease typically spread?", "category": "conv", "question_id": 58}
+{"image": "Tomato___Septoria_leaf_spot_1472.JPG", "text": "What are the potential consequences of not treating this disease?", "category": "conv", "question_id": 59}
+{"image": "Tomato___Early_blight_102.JPG", "text": "What can you tell me about the appearance of the leaf in the image?", "category": "conv", "question_id": 60}
+{"image": "Tomato___Early_blight_102.JPG", "text": "How does early blight affect tomato plants?", "category": "conv", "question_id": 61}
+{"image": "Tomato___Early_blight_102.JPG", "text": "Are there any visible signs of the fungal pathogen causing early blight?", "category": "conv", "question_id": 62}
+{"image": "Tomato___Target_Spot_863.JPG", "text": "What can you tell me about the pattern of the spots on the leaf?", "category": "conv", "question_id": 63}
+{"image": "Tomato___Target_Spot_863.JPG", "text": "How would you describe the color of the spots on the leaf?", "category": "conv", "question_id": 64}
+{"image": "Tomato___Target_Spot_863.JPG", "text": "Can you tell me more about the impact of the disease on the leaf's health?", "category": "conv", "question_id": 65}
+{"image": "Squash___Powdery_mildew_985.JPG", "text": "What can you tell me about the appearance of the leaf in the image?", "category": "conv", "question_id": 66}
+{"image": "Squash___Powdery_mildew_985.JPG", "text": "How does powdery mildew affect the overall health of the plant?", "category": "conv", "question_id": 67}
+{"image": "Squash___Powdery_mildew_985.JPG", "text": "Are there any visible signs of the disease spreading to other parts of the plant?", "category": "conv", "question_id": 68}
+{"image": "Tomato___Early_blight_739.JPG", "text": "What can you tell me about the appearance of the leaf in the image?", "category": "conv", "question_id": 69}
+{"image": "Tomato___Early_blight_739.JPG", "text": "How does early blight disease affect tomato plants?", "category": "conv", "question_id": 70}
+{"image": "Tomato___Early_blight_739.JPG", "text": "Are there any visible signs of defoliation or reduced fruit production on the leaf?", "category": "conv", "question_id": 71}
+{"image": "Tomato___Septoria_leaf_spot_307.JPG", "text": "What can you tell me about the appearance of the leaf in the image?", "category": "conv", "question_id": 72}
+{"image": "Tomato___Septoria_leaf_spot_307.JPG", "text": "How does this disease affect the plant?", "category": "conv", "question_id": 73}
+{"image": "Tomato___Septoria_leaf_spot_307.JPG", "text": "What are some management strategies for this disease?", "category": "conv", "question_id": 74}
+{"image": "Grape___Esca_(Black_Measles)_644.JPG", "text": "What can you tell me about the condition of the grape leaf in the image?", "category": "conv", "question_id": 75}
+{"image": "Grape___Esca_(Black_Measles)_644.JPG", "text": "How would you describe the pattern of the black spots on the leaf?", "category": "conv", "question_id": 76}
+{"image": "Grape___Esca_(Black_Measles)_644.JPG", "text": "What are the potential consequences of this disease on the grapevine?", "category": "conv", "question_id": 77}
+{"image": "Peach___healthy_41.JPG", "text": "How does the leaf in the image look?", "category": "conv", "question_id": 78}
+{"image": "Peach___healthy_41.JPG", "text": "Are there any visible issues or abnormalities on the leaf?", "category": "conv", "question_id": 79}
+{"image": "Peach___healthy_41.JPG", "text": "What can you infer about the condition of the peach plant based on this leaf?", "category": "conv", "question_id": 80}
+{"image": "Tomato___Leaf_Mold_93.JPG", "text": "How would you describe the color of the leaf in the image?", "category": "conv", "question_id": 81}
+{"image": "Tomato___Septoria_leaf_spot_1235.JPG", "text": "What can you tell me about the appearance of the leaf in the image?", "category": "conv", "question_id": 82}
+{"image": "Tomato___Septoria_leaf_spot_1235.JPG", "text": "How does Septoria leaf spot disease impact tomato plants?", "category": "conv", "question_id": 83}
+{"image": "Tomato___Septoria_leaf_spot_1235.JPG", "text": "Are there any visible signs of damage or symptoms other than the spots?", "category": "conv", "question_id": 84}
+{"image": "Tomato___Spider_mites Two-spotted_spider_mite_1110.JPG", "text": "What can you tell me about the appearance of the leaf in the image?", "category": "conv", "question_id": 85}
+{"image": "Tomato___Spider_mites Two-spotted_spider_mite_1110.JPG", "text": "What could be causing the yellowing and speckled appearance of the leaf?", "category": "conv", "question_id": 86}
+{"image": "Tomato___Spider_mites Two-spotted_spider_mite_1110.JPG", "text": "How can the presence of spider mites impact the tomato plant?", "category": "conv", "question_id": 87}
+{"image": "Grape___healthy_53.JPG", "text": "Can you describe the appearance of the grape leaf in the image?", "category": "conv", "question_id": 88}
+{"image": "Grape___healthy_53.JPG", "text": "Are there any signs of disease or damage on the grape leaf?", "category": "conv", "question_id": 89}
+{"image": "Grape___healthy_53.JPG", "text": "What does the healthy appearance of the grape leaf suggest about the overall plant?", "category": "conv", "question_id": 90}
+{"image": "Tomato___Bacterial_spot_300.JPG", "text": "What can you tell me about the spots on the leaf in the image?", "category": "conv", "question_id": 91}
+{"image": "Tomato___Bacterial_spot_300.JPG", "text": "How do you think this bacterial spot disease affects the tomato plant?", "category": "conv", "question_id": 92}
+{"image": "Tomato___Bacterial_spot_300.JPG", "text": "What steps can be taken to prevent the spread of this bacterial spot disease?", "category": "conv", "question_id": 93}
+{"image": "Corn_(maize)___healthy_1043.JPG", "text": "How would you describe the overall appearance of the leaf in the image?", "category": "conv", "question_id": 94}
+{"image": "Corn_(maize)___healthy_1043.JPG", "text": "Are there any visible signs of disease or damage on the leaf?", "category": "conv", "question_id": 95}
+{"image": "Corn_(maize)___healthy_1043.JPG", "text": "What can you infer about the health of the Corn (maize) plant based on this leaf?", "category": "conv", "question_id": 96}
+{"image": "Corn_(maize)___Northern_Leaf_Blight_376.JPG", "text": "What can you tell me about the condition of the corn leaf in the image?", "category": "conv", "question_id": 97}
+{"image": "Apple___Cedar_apple_rust_219.JPG", "text": "What can you tell me about the appearance of the leaf in the image?", "category": "conv", "question_id": 98}
+{"image": "Apple___Cedar_apple_rust_219.JPG", "text": "How would you describe the overall condition of the leaf?", "category": "conv", "question_id": 99}
+{"image": "Apple___Cedar_apple_rust_219.JPG", "text": "What impact does cedar apple rust have on apple trees?", "category": "conv", "question_id": 100}
+{"image": "Potato___Late_blight_396.JPG", "text": "What can you tell me about the condition of the leaf in the image?", "category": "conv", "question_id": 101}
+{"image": "Potato___Late_blight_396.JPG", "text": "How severe does the disease appear on the leaf?", "category": "conv", "question_id": 102}
+{"image": "Potato___Late_blight_396.JPG", "text": "What steps should be taken to address this disease on the potato plant?", "category": "conv", "question_id": 103}
+{"image": "Grape___Black_rot_990.JPG", "text": "What can you tell me about the condition of the grape leaf in the image?", "category": "conv", "question_id": 104}
+{"image": "Grape___Black_rot_990.JPG", "text": "How does black rot disease affect grapevines?", "category": "conv", "question_id": 105}
+{"image": "Grape___Black_rot_990.JPG", "text": "Are there any visible signs of the fungus causing black rot disease on the leaf?", "category": "conv", "question_id": 106}
+{"image": "Cherry_(including_sour)___Powdery_mildew_396.JPG", "text": "What can you tell me about the appearance of the leaf in the image?", "category": "conv", "question_id": 107}
+{"image": "Cherry_(including_sour)___Powdery_mildew_396.JPG", "text": "How does powdery mildew affect the plant?", "category": "conv", "question_id": 108}
+{"image": "Cherry_(including_sour)___Powdery_mildew_396.JPG", "text": "Are there any other visible symptoms on the leaf?", "category": "conv", "question_id": 109}
+{"image": "Apple___healthy_802.JPG", "text": "How would you describe the overall appearance of the leaf in the image?", "category": "conv", "question_id": 110}
+{"image": "Grape___healthy_282.JPG", "text": "How would you describe the overall appearance of the grape plant in the image?", "category": "conv", "question_id": 111}
+{"image": "Grape___healthy_282.JPG", "text": "Can you tell me anything about the leaf structure or shape of the grape plant?", "category": "conv", "question_id": 112}
+{"image": "Grape___healthy_282.JPG", "text": "Are there any specific features on the leaves that stand out to you?", "category": "conv", "question_id": 113}
+{"image": "Squash___Powdery_mildew_1304.JPG", "text": "How does the leaf in the image appear?", "category": "conv", "question_id": 114}
+{"image": "Squash___Powdery_mildew_1304.JPG", "text": "What can you tell me about the overall health of the plant based on this leaf?", "category": "conv", "question_id": 115}
+{"image": "Squash___Powdery_mildew_1304.JPG", "text": "What actions should be taken to address the issue shown in the image?", "category": "conv", "question_id": 116}
+{"image": "Tomato___Early_blight_816.JPG", "text": "What can you tell me about the appearance of the leaf in the image?", "category": "conv", "question_id": 117}
+{"image": "Tomato___Early_blight_816.JPG", "text": "How does early blight affect the overall health of the tomato plant?", "category": "conv", "question_id": 118}
+{"image": "Tomato___Early_blight_816.JPG", "text": "Are there any other visible signs of early blight on the leaf?", "category": "conv", "question_id": 119}
+{"image": "Pepper,_bell___Bacterial_spot_375.JPG", "text": "What can you tell me about the overall appearance of the leaf in the image?", "category": "conv", "question_id": 120}
+{"image": "Pepper,_bell___Bacterial_spot_375.JPG", "text": "Are there any other visible symptoms on the leaf?", "category": "conv", "question_id": 121}
+{"image": "Pepper,_bell___Bacterial_spot_375.JPG", "text": "Can you provide any insights into the severity of the infection based on the appearance of the leaf?", "category": "conv", "question_id": 122}
+{"image": "Grape___Black_rot_1.JPG", "text": "What can you tell me about the appearance of the leaf in the image?", "category": "conv", "question_id": 123}
+{"image": "Grape___Black_rot_1.JPG", "text": "How does black rot affect grape plants?", "category": "conv", "question_id": 124}
+{"image": "Grape___Black_rot_1.JPG", "text": "Are there any visible signs of the disease spreading to other parts of the plant?", "category": "conv", "question_id": 125}
+{"image": "Tomato___Target_Spot_477.JPG", "text": "What can you tell me about the pattern on the leaf in the image?", "category": "conv", "question_id": 126}
+{"image": "Tomato___Target_Spot_477.JPG", "text": "How would you describe the severity of the infection based on the image?", "category": "conv", "question_id": 127}
+{"image": "Tomato___Target_Spot_477.JPG", "text": "What steps can be taken to address the target spot disease in tomato plants?", "category": "conv", "question_id": 128}
+{"image": "Orange___Haunglongbing_(Citrus_greening)_845.JPG", "text": "What can you tell me about the color of the leaf in the image?", "category": "conv", "question_id": 129}
+{"image": "Orange___Haunglongbing_(Citrus_greening)_845.JPG", "text": "Are there any other noticeable patterns or discolorations on the leaf?", "category": "conv", "question_id": 130}
+{"image": "Orange___Haunglongbing_(Citrus_greening)_845.JPG", "text": "How would you describe the overall appearance of the leaf?", "category": "conv", "question_id": 131}
+{"image": "Cherry_(including_sour)___healthy_777.JPG", "text": "Can you describe the overall appearance of the Cherry tree in the image?", "category": "conv", "question_id": 132}
+{"image": "Cherry_(including_sour)___healthy_777.JPG", "text": "What can you infer about the health of the Cherry tree based on the leaves?", "category": "conv", "question_id": 133}
+{"image": "Cherry_(including_sour)___healthy_777.JPG", "text": "Are there any visible signs of stress or nutrient deficiencies on the leaves?", "category": "conv", "question_id": 134}
+{"image": "Cherry_(including_sour)___Powdery_mildew_214.JPG", "text": "What can you tell me about the appearance of the leaf in the image?", "category": "conv", "question_id": 135}
+{"image": "Cherry_(including_sour)___Powdery_mildew_214.JPG", "text": "How does powdery mildew affect cherry plants?", "category": "conv", "question_id": 136}
+{"image": "Cherry_(including_sour)___Powdery_mildew_214.JPG", "text": "Are there any other visible symptoms on the leaf?", "category": "conv", "question_id": 137}
+{"image": "Apple___Cedar_apple_rust_88.JPG", "text": "What can you tell me about the color of the spots on the leaf in the image?", "category": "conv", "question_id": 138}
+{"image": "Apple___Cedar_apple_rust_88.JPG", "text": "Are there any specific patterns or shapes to the spots on the leaf?", "category": "conv", "question_id": 139}
+{"image": "Apple___Cedar_apple_rust_88.JPG", "text": "How does Cedar apple rust affect the overall health of the apple tree?", "category": "conv", "question_id": 140}
+{"image": "Squash___Powdery_mildew_1552.JPG", "text": "What can you tell me about the appearance of the leaf in the image?", "category": "conv", "question_id": 141}
+{"image": "Squash___Powdery_mildew_1552.JPG", "text": "How would you describe the pattern of the white patches on the leaf?", "category": "conv", "question_id": 142}
+{"image": "Squash___Powdery_mildew_1552.JPG", "text": "Can you tell me anything about the impact of this condition on the plant?", "category": "conv", "question_id": 143}
+{"image": "Blueberry___healthy_1088.JPG", "text": "Can you describe the color of the leaf in the image?", "category": "conv", "question_id": 144}
+{"image": "Blueberry___healthy_1088.JPG", "text": "Are there any visible signs of damage or disease on the leaf?", "category": "conv", "question_id": 145}
+{"image": "Blueberry___healthy_1088.JPG", "text": "What can you infer about the overall health of the plant based on this leaf?", "category": "conv", "question_id": 146}
+{"image": "Corn_(maize)___Common_rust__497.JPG", "text": "What can you tell me about the appearance of the leaves in the image?", "category": "conv", "question_id": 147}
+{"image": "Corn_(maize)___Common_rust__497.JPG", "text": "How does Common Rust affect the corn plant?", "category": "conv", "question_id": 148}
+{"image": "Corn_(maize)___Common_rust__497.JPG", "text": "Are there any other visible symptoms of Common Rust on the leaves?", "category": "conv", "question_id": 149}
+{"image": "Grape___Black_rot_1067.JPG", "text": "What can you tell me about the condition of the grape leaf in the image?", "category": "conv", "question_id": 150}
+{"image": "Grape___Black_rot_1067.JPG", "text": "What is the name of the disease affecting the grape leaf?", "category": "conv", "question_id": 151}
+{"image": "Grape___Black_rot_1067.JPG", "text": "How can you identify black rot on grape leaves?", "category": "conv", "question_id": 152}
+{"image": "Grape___Black_rot_1067.JPG", "text": "What should be done to treat and prevent the further spread of black rot?", "category": "conv", "question_id": 153}
+{"image": "Apple___healthy_790.JPG", "text": "Can you describe the appearance of the leaf in the image?", "category": "conv", "question_id": 154}
+{"image": "Apple___healthy_790.JPG", "text": "What can you infer about the care and maintenance of the plant based on this leaf?", "category": "conv", "question_id": 155}
+{"image": "Apple___healthy_790.JPG", "text": "Are there any specific characteristics of this leaf that indicate its good health?", "category": "conv", "question_id": 156}
+{"image": "Corn_(maize)___healthy_457.JPG", "text": "Can you describe the appearance of the corn plant in the image?", "category": "conv", "question_id": 157}
+{"image": "Corn_(maize)___healthy_457.JPG", "text": "What can you infer about the potential yield of this corn plant?", "category": "conv", "question_id": 158}
+{"image": "Corn_(maize)___healthy_457.JPG", "text": "Are there any specific features of the plant that stand out?", "category": "conv", "question_id": 159}
+{"image": "Potato___Early_blight_322.JPG", "text": "What can you tell me about the symptoms on the leaf in the image?", "category": "conv", "question_id": 160}
+{"image": "Potato___Early_blight_322.JPG", "text": "Are there any other visible signs of the disease on the leaf?", "category": "conv", "question_id": 161}
+{"image": "Potato___Early_blight_322.JPG", "text": "How does Early Blight disease affect the overall health of the potato plant?", "category": "conv", "question_id": 162}
+{"image": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot_180.JPG", "text": "What can you tell me about the spots on the corn leaf in the image?", "category": "conv", "question_id": 163}
+{"image": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot_180.JPG", "text": "How do these gray leaf spots affect the health of the corn plant?", "category": "conv", "question_id": 164}
+{"image": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot_180.JPG", "text": "Are there any visible signs of the fungus causing the gray leaf spots?", "category": "conv", "question_id": 165}
+{"image": "Potato___healthy_47.JPG", "text": "How would you describe the overall appearance of the leaf in the image?", "category": "conv", "question_id": 166}
+{"image": "Potato___healthy_47.JPG", "text": "Are there any visible signs of disease or infection on the leaf?", "category": "conv", "question_id": 167}
+{"image": "Potato___healthy_47.JPG", "text": "What can you infer about the overall health of the plant based on this leaf?", "category": "conv", "question_id": 168}
+{"image": "Tomato___Early_blight_16.JPG", "text": "What can you tell me about the appearance of the leaf in the image?", "category": "conv", "question_id": 169}
+{"image": "Tomato___Early_blight_16.JPG", "text": "How do these lesions affect the overall health of the plant?", "category": "conv", "question_id": 170}
+{"image": "Tomato___Early_blight_16.JPG", "text": "Is there anything else in the image that indicates the presence of Early blight disease?", "category": "conv", "question_id": 171}
+{"image": "Apple___healthy_1556.JPG", "text": "Can you describe the condition of the leaf in the image?", "category": "conv", "question_id": 172}
+{"image": "Apple___healthy_1556.JPG", "text": "Are there any signs of disease or infection on the leaf?", "category": "conv", "question_id": 173}
+{"image": "Apple___healthy_1556.JPG", "text": "What can you infer about the overall health of the plant based on this leaf?", "category": "conv", "question_id": 174}
+{"image": "Peach___healthy_227.JPG", "text": "How would you describe the overall appearance of the leaf in the image?", "category": "conv", "question_id": 175}
+{"image": "Peach___healthy_227.JPG", "text": "Can you tell me anything about the health of the peach plant based on this leaf?", "category": "conv", "question_id": 176}
+{"image": "Peach___healthy_227.JPG", "text": "Are there any specific features on the leaf that indicate its good health?", "category": "conv", "question_id": 177}
+{"image": "Tomato___Target_Spot_991.JPG", "text": "What can you tell me about the circular lesions on the leaf in the image?", "category": "conv", "question_id": 178}
+{"image": "Tomato___Target_Spot_991.JPG", "text": "How does Target Spot disease affect tomato plants?", "category": "conv", "question_id": 179}
+{"image": "Tomato___Target_Spot_991.JPG", "text": "What are some effective control measures for Target Spot disease?", "category": "conv", "question_id": 180}
+{"image": "Apple___Apple_scab_476.JPG", "text": "What can you tell me about the appearance of the leaf in the image?", "category": "conv", "question_id": 181}
+{"image": "Apple___Apple_scab_476.JPG", "text": "Can you provide any information about the disease affecting the leaf?", "category": "conv", "question_id": 182}
+{"image": "Apple___Apple_scab_476.JPG", "text": "How does this disease impact the apple tree?", "category": "conv", "question_id": 183}
+{"image": "Apple___healthy_332.JPG", "text": "Can you describe the appearance of the leaf in the image?", "category": "conv", "question_id": 184}
+{"image": "Apple___healthy_332.JPG", "text": "What can you infer about the condition of the plant based on this leaf?", "category": "conv", "question_id": 185}
+{"image": "Apple___healthy_332.JPG", "text": "Are there any notable features or characteristics of this leaf?", "category": "conv", "question_id": 186}
+{"image": "Corn_(maize)___Northern_Leaf_Blight_568.JPG", "text": "What can you tell me about the color of the leaf in the image?", "category": "conv", "question_id": 187}
+{"image": "Corn_(maize)___Northern_Leaf_Blight_568.JPG", "text": "Are there any visible patterns or shapes on the leaf?", "category": "conv", "question_id": 188}
+{"image": "Corn_(maize)___Northern_Leaf_Blight_568.JPG", "text": "How would you describe the overall appearance of the leaf?", "category": "conv", "question_id": 189}
+{"image": "Corn_(maize)___Northern_Leaf_Blight_910.JPG", "text": "What can you tell me about the appearance of the leaves in the image?", "category": "conv", "question_id": 190}
+{"image": "Corn_(maize)___Northern_Leaf_Blight_910.JPG", "text": "How does Northern Leaf Blight impact the overall health of the corn plant?", "category": "conv", "question_id": 191}
+{"image": "Corn_(maize)___Northern_Leaf_Blight_910.JPG", "text": "Are there any recommended management practices for controlling Northern Leaf Blight?", "category": "conv", "question_id": 192}
+{"image": "Peach___Bacterial_spot_794.JPG", "text": "What can you tell me about the appearance of the leaf in the image?", "category": "conv", "question_id": 193}
+{"image": "Peach___Bacterial_spot_794.JPG", "text": "How does bacterial spot affect peach trees?", "category": "conv", "question_id": 194}
+{"image": "Peach___Bacterial_spot_794.JPG", "text": "Are there any visible signs of the bacterial infection on the leaf?", "category": "conv", "question_id": 195}
+{"image": "Apple___healthy_685.JPG", "text": "How would you describe the overall appearance of the leaves in the image?", "category": "conv", "question_id": 196}
+{"image": "Apple___healthy_685.JPG", "text": "Can you tell me anything about the health of the plant based on these leaves?", "category": "conv", "question_id": 197}
+{"image": "Apple___healthy_685.JPG", "text": "Are there any specific features of the leaves that indicate their good health?", "category": "conv", "question_id": 198}
+{"image": "Tomato___Spider_mites Two-spotted_spider_mite_1072.JPG", "text": "What can you tell me about the appearance of the leaf in the image?", "category": "conv", "question_id": 199}
+{"image": "Tomato___Spider_mites Two-spotted_spider_mite_1072.JPG", "text": "How would you describe the damage caused by the spider mites?", "category": "conv", "question_id": 200}
+{"image": "Tomato___Spider_mites Two-spotted_spider_mite_1072.JPG", "text": "What measures can be taken to control these spider mites?", "category": "conv", "question_id": 201}
+{"image": "Potato___healthy_34.JPG", "text": "How would you describe the overall appearance of the leaf in the image?", "category": "conv", "question_id": 202}
+{"image": "Tomato___Target_Spot_1397.JPG", "text": "What can you tell me about the leaf in the image?", "category": "conv", "question_id": 203}
+{"image": "Tomato___Tomato_mosaic_virus_342.JPG", "text": "What can you tell me about the colors of the leaf in the image?", "category": "conv", "question_id": 204}
+{"image": "Tomato___Tomato_mosaic_virus_342.JPG", "text": "Can you describe the pattern on the leaf?", "category": "conv", "question_id": 205}
+{"image": "Tomato___Tomato_mosaic_virus_342.JPG", "text": "How does the presence of the Tomato Mosaic Virus affect the leaf?", "category": "conv", "question_id": 206}
+{"image": "Grape___healthy_100.JPG", "text": "Can you describe the appearance of the grape plant in the image?", "category": "conv", "question_id": 207}
+{"image": "Grape___healthy_100.JPG", "text": "Are there any visible blemishes or discoloration on the leaves?", "category": "conv", "question_id": 208}
+{"image": "Grape___healthy_100.JPG", "text": "What can you infer about the potential yield of this grape plant?", "category": "conv", "question_id": 209}
+{"image": "Grape___healthy_91.JPG", "text": "How would you describe the overall appearance of the grape plant in the image?", "category": "conv", "question_id": 210}
+{"image": "Grape___healthy_91.JPG", "text": "Are there any specific features that indicate the plant's good health?", "category": "conv", "question_id": 211}
+{"image": "Grape___healthy_91.JPG", "text": "Can you tell if the plant is growing well based on the image?", "category": "conv", "question_id": 212}
+{"image": "Peach___healthy_282.JPG", "text": "How would you describe the overall appearance of the leaf in the image?", "category": "conv", "question_id": 213}
+{"image": "Peach___healthy_282.JPG", "text": "Are there any notable features or characteristics on the leaf?", "category": "conv", "question_id": 214}
+{"image": "Peach___healthy_282.JPG", "text": "Can you infer anything about the care or environment of the plant based on this leaf?", "category": "conv", "question_id": 215}
+{"image": "Tomato___Tomato_Yellow_Leaf_Curl_Virus_4419.JPG", "text": "What can you tell me about the condition of the tomato leaf in the image?", "category": "conv", "question_id": 216}
+{"image": "Corn_(maize)___healthy_144.JPG", "text": "How would you describe the overall appearance of the corn plant in the image?", "category": "conv", "question_id": 217}
+{"image": "Corn_(maize)___healthy_144.JPG", "text": "Are there any visible signs of disease or damage on the leaves?", "category": "conv", "question_id": 218}
+{"image": "Corn_(maize)___healthy_144.JPG", "text": "What can you infer about the potential harvest based on the appearance of the corn plant?", "category": "conv", "question_id": 219}
+{"image": "Strawberry___healthy_410.JPG", "text": "Can you describe the appearance of the strawberry plant in the image?", "category": "conv", "question_id": 220}
+{"image": "Strawberry___healthy_410.JPG", "text": "What can you infer about the overall condition of the strawberry plant?", "category": "conv", "question_id": 221}
+{"image": "Strawberry___healthy_410.JPG", "text": "Are there any specific features of the strawberry plant that stand out in the image?", "category": "conv", "question_id": 222}
+{"image": "Apple___Cedar_apple_rust_42.JPG", "text": "What can you tell me about the appearance of the leaf in the image?", "category": "conv", "question_id": 223}
+{"image": "Apple___Cedar_apple_rust_42.JPG", "text": "What is causing the orange spots on the leaf?", "category": "conv", "question_id": 224}
+{"image": "Apple___Cedar_apple_rust_42.JPG", "text": "Are there any other visible symptoms of the cedar apple rust disease on the leaf?", "category": "conv", "question_id": 225}
+{"image": "Apple___Cedar_apple_rust_42.JPG", "text": "What measures should farmers take to prevent the further spread of this disease?", "category": "conv", "question_id": 226}
+{"image": "Potato___healthy_113.JPG", "text": "Can you describe the appearance of the leaf in the image?", "category": "conv", "question_id": 227}
+{"image": "Potato___healthy_113.JPG", "text": "Are there any specific features on the leaf that stand out?", "category": "conv", "question_id": 228}
+{"image": "Potato___healthy_113.JPG", "text": "What can you infer about the overall health of the plant based on this leaf?", "category": "conv", "question_id": 229}
+{"image": "Grape___Esca_(Black_Measles)_462.JPG", "text": "What can you tell me about the appearance of the grape leaf in the image?", "category": "conv", "question_id": 230}
+{"image": "Grape___Esca_(Black_Measles)_462.JPG", "text": "How would you describe the pattern of the dark spots on the leaf?", "category": "conv", "question_id": 231}
+{"image": "Grape___Esca_(Black_Measles)_462.JPG", "text": "What can you infer about the severity of the infection based on the appearance of the leaf?", "category": "conv", "question_id": 232}
+{"image": "Corn_(maize)___Northern_Leaf_Blight_252.JPG", "text": "What can you tell me about the color of the leaf in the image?", "category": "conv", "question_id": 233}
+{"image": "Corn_(maize)___Northern_Leaf_Blight_252.JPG", "text": "Can you describe the pattern of the lesions on the leaf?", "category": "conv", "question_id": 234}
+{"image": "Corn_(maize)___Northern_Leaf_Blight_252.JPG", "text": "How would you assess the impact of the disease on the leaf?", "category": "conv", "question_id": 235}
+{"image": "Tomato___Early_blight_300.JPG", "text": "What can you tell me about the appearance of the leaf in the image?", "category": "conv", "question_id": 236}
+{"image": "Tomato___Early_blight_300.JPG", "text": "How does early blight affect tomato plants?", "category": "conv", "question_id": 237}
+{"image": "Tomato___Early_blight_300.JPG", "text": "Are there any visible signs of the fungal infection spreading?", "category": "conv", "question_id": 238}
+{"image": "Potato___Early_blight_310.JPG", "text": "How does the leaf in the image appear?", "category": "conv", "question_id": 239}
+{"image": "Potato___Early_blight_310.JPG", "text": "What can you tell me about the pattern on the leaf?", "category": "conv", "question_id": 240}
+{"image": "Potato___Early_blight_310.JPG", "text": "What is the name of the disease affecting the potato leaf?", "category": "conv", "question_id": 241}
+{"image": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot_463.JPG", "text": "What can you tell me about the condition of the corn leaf in the image?", "category": "conv", "question_id": 242}
+{"image": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot_463.JPG", "text": "How common is gray leaf spot in corn plants?", "category": "conv", "question_id": 243}
+{"image": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot_463.JPG", "text": "Are there any visible signs of the disease other than the lesions?", "category": "conv", "question_id": 244}
+{"image": "Tomato___Tomato_Yellow_Leaf_Curl_Virus_200.JPG", "text": "What can you tell me about the leaf in the image?", "category": "conv", "question_id": 245}
+{"image": "Tomato___Tomato_Yellow_Leaf_Curl_Virus_200.JPG", "text": "How does this virus affect the tomato plant?", "category": "conv", "question_id": 246}
+{"image": "Tomato___Tomato_Yellow_Leaf_Curl_Virus_200.JPG", "text": "Are there any other visible symptoms of the virus on the leaf?", "category": "conv", "question_id": 247}
+{"image": "Corn_(maize)___Northern_Leaf_Blight_797.JPG", "text": "Can you describe the appearance of the leaf in the image?", "category": "conv", "question_id": 248}
+{"image": "Corn_(maize)___Northern_Leaf_Blight_797.JPG", "text": "How would you describe the overall health of the corn leaf?", "category": "conv", "question_id": 249}
+{"image": "Corn_(maize)___Northern_Leaf_Blight_797.JPG", "text": "Are there any other visual cues on the leaf that indicate the presence of Northern Leaf Blight?", "category": "conv", "question_id": 250}
+{"image": "Cherry_(including_sour)___Powdery_mildew_1013.JPG", "text": "What can you tell me about the appearance of the leaf in the image?", "category": "conv", "question_id": 251}
+{"image": "Cherry_(including_sour)___Powdery_mildew_1013.JPG", "text": "How does this powdery coating affect the leaf?", "category": "conv", "question_id": 252}
+{"image": "Cherry_(including_sour)___Powdery_mildew_1013.JPG", "text": "Are there any other visible symptoms on the leaf?", "category": "conv", "question_id": 253}
